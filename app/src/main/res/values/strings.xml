@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PwdMgr</string>
+    <string name="done">Done</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="delete_pwd">Delete Password</string>
+    <string name="add_password">Add Password</string>
+    <string name="website">Website</string>
+    <string name="edit">Edit</string>
+</resources>
